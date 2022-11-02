@@ -10,7 +10,7 @@
 
   <project path="art" name="platform/art" groups="pdk" />
 
-  
+  <include name="android-x86.xml" />
   <include name="my-manifest.xml" />
 
 </manifest>

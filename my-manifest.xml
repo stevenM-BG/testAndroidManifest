@@ -5,6 +5,6 @@
   <remote  name="prism" fetch="." />
 
   
-  <project path="bootable/newinstaller" name="testAndroidComponet" remote="prism" revision="q-x86" />
+  <project path="bootable/newinstaller" name="testAndroidManifest" remote="prism" revision="q-x86" />
   
 </manifest>

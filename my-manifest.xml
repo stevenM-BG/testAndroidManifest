@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <!-- From Mobilligy repositories -->
+  <remote  name="prism" fetch="." />
+
+  
+  <project path="bootable/newinstaller" name="prismdroid" remote="prism" revision="x86_newInstaller"/>
+  
+</manifest>
